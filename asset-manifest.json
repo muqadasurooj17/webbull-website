@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/webbull-website/static/js/main.b8a9beda.chunk.js",
+    "main.js.map": "/webbull-website/static/js/main.b8a9beda.chunk.js.map",
+    "runtime-main.js": "/webbull-website/static/js/runtime-main.a997db89.js",
+    "runtime-main.js.map": "/webbull-website/static/js/runtime-main.a997db89.js.map",
+    "static/js/2.4b752d1e.chunk.js": "/webbull-website/static/js/2.4b752d1e.chunk.js",
+    "static/js/2.4b752d1e.chunk.js.map": "/webbull-website/static/js/2.4b752d1e.chunk.js.map",
+    "static/js/3.9efce28f.chunk.js": "/webbull-website/static/js/3.9efce28f.chunk.js",
+    "static/js/3.9efce28f.chunk.js.map": "/webbull-website/static/js/3.9efce28f.chunk.js.map",
+    "index.html": "/webbull-website/index.html",
+    "static/js/2.4b752d1e.chunk.js.LICENSE.txt": "/webbull-website/static/js/2.4b752d1e.chunk.js.LICENSE.txt",
+    "static/media/bg-image.cdc89ded.png": "/webbull-website/static/media/bg-image.cdc89ded.png",
+    "static/media/logo.bdb417cc.svg": "/webbull-website/static/media/logo.bdb417cc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a997db89.js",
+    "static/js/2.4b752d1e.chunk.js",
+    "static/js/main.b8a9beda.chunk.js"
+  ]
+}
